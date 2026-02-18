@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-Ordinals-orange)
-![MagicEden](https://img.shields.io/badge/Marketplace-MagicEden-black)
+![MagicEden](https://img.shields.io/badge/Marketplace-MagicEden-purple)
 ![Telegram](https://img.shields.io/badge/Telegram-alerts-2CA5E0)
 ![Type](https://img.shields.io/badge/Type-Monitoring-purple)
 ![API](https://img.shields.io/badge/API-WebSocket%20%2B%20REST-grey)
